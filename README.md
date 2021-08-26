@@ -3,3 +3,6 @@
 </p>
 
 # House Sales Prediction 
+The data below, as well as its context, is completely fictitious and this is an Insights Project based on the blog ‘SejaUmDataScientist’ [5].
+
+
