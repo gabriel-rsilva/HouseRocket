@@ -1,2 +1,5 @@
-# HouseRocket
-House Sales Prediction https://www.kaggle.com/harlfoxem/housesalesprediction
+<p align="center">
+  <img src="HouseRocket\img\selling-home.jpg"/>
+</p>
+
+# House Sales Prediction 
