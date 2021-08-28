@@ -1,4 +1,4 @@
-# House Sales Prediction 
+# House Sales  
 https://www.kaggle.com/harlfoxem/housesalesprediction
 <p align="center">
   <img src="img/selling-home.jpg" height="300" width="500"/>
