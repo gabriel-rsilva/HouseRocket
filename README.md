@@ -33,14 +33,11 @@ The final product will be 3 Reports in .csv:
 - Report with suggestions for selling a property for a recommended value;
 - Report with suggestion for reform.
 
-And a Dashboard developed in PowerBi.
-
 ## Tools 
  <p>
   <ul>
     <li><a href="https://www.python.org/">Python 3.9</a></li>
     <li><a href="https://jupyter.org/">Jupyter Notebook</a></li>
-    <li><a href="https://powerbi.microsoft.com/">PowerBi</a></li>
     <li>CRISP-DS Management Method</li>
   </ul>
  </p>
